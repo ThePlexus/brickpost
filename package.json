@@ -1,5 +1,5 @@
 {
-  "name": "brickpost",
+  "name": "@theplexus/brickpost",
   "version": "1.0.0",
   "description": "A route to HardBrick.",
   "main": "lib/index.js",
